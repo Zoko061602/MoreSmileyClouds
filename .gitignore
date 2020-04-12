@@ -21,3 +21,30 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.bin
+*.lock
+.classpath
+*.rangemap
+build/tmp/jar/MANIFEST.MF
+*.txt
+*.gz
+*.json
+*.dat
+*.mca
+*.png
+config/splash.properties
+*.cfg
+build/tmp/sourceJar/MANIFEST.MF
+saves/New World/level.dat_old
+gradlew.bat
+gradlew
+gradle.properties
+build/sources/main/java/com/Zoko061602/MoreSmileyClouds/CloudDefinitions.java
+build/sources/main/java/com/Zoko061602/MoreSmileyClouds/CraftTweakerCloud.java
+build/sources/main/java/com/Zoko061602/MoreSmileyClouds/CrafttweakerCompat.java
+build/sources/main/java/com/Zoko061602/MoreSmileyClouds/MoreSmileyClouds.java
+build/sources/main/java/com/Zoko061602/MoreSmileyClouds/SmileyCloud.java
+build.gradle
+.gradle/buildOutputCleanup/cache.properties
+.project
+.settings/org.eclipse.jdt.core.prefs
